@@ -1,0 +1,66 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Outer Circular Badge -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M50,0 A50,50 0 1,1 49.9,0 Z" />
+    <!-- Inner Accent Ring -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M50,5 A45,45 0 1,1 49.9,5 Z" />
+    <!-- Tail -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M62,75 C82,75 92,50 82,35 C72,20 52,25 57,40 C60,49 69,52 65,62 C62,69 55,68 52,68 Z" />
+    <!-- Tail highlight -->
+    <path
+        android:fillColor="#92400E"
+        android:pathData="M67,35 C74,25 80,38 75,48 C71,55 62,55 65,40 Z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#92400E"
+        android:pathData="M35,45 C35,35 48,35 48,45 C48,55 58,60 55,80 C50,88 32,88 28,80 C25,65 35,55 35,45 Z" />
+    <!-- Belly -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M36,55 C36,50 44,50 44,55 C44,65 48,70 44,78 C38,82 32,78 34,68 Z" />
+    <!-- Head -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M30,38 C22,25 45,15 50,28 C55,38 42,48 30,38 Z" />
+    <!-- Ear Left -->
+    <path
+        android:fillColor="#451A03"
+        android:pathData="M28,25 L24,12 L33,20 Z" />
+    <!-- Ear Right -->
+    <path
+        android:fillColor="#451A03"
+        android:pathData="M40,22 L45,9 L46,20 Z" />
+    <!-- Eye -->
+    <path
+        android:fillColor="#18181B"
+        android:pathData="M31,28 A2.5,2.5 0 1,1 30.9,28 Z" />
+    <!-- Eye Highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31.8,27.2 A0.8,0.8 0 1,1 31.7,27.2 Z" />
+    <!-- Nose -->
+    <path
+        android:fillColor="#451A03"
+        android:pathData="M24,31 A1.8,1.8 0 1,1 23.9,31 Z" />
+    <!-- Paws holding acorn -->
+    <path
+        android:fillColor="#451A03"
+        android:pathData="M32,56 C30,52 38,50 40,54 C38,58 34,58 32,56 Z" />
+    <!-- Acorn Nut -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M40,54 C42,50 48,50 50,54 C51,60 41,63 40,54 Z" />
+    <!-- Acorn Cap -->
+    <path
+        android:fillColor="#451A03"
+        android:pathData="M40,53 C41,50 47,50 49,53 C47,51 42,51 40,53 Z" />
+</vector>
