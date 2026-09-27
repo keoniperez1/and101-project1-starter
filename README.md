@@ -31,7 +31,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='<img width="1920" height="1200" alt="Animation" src="https://github.com/user-attachments/assets/c1960ca2-752e-4145-bd53-794514fb355d" />
+<img src='(https://www.loom.com/share/4e3e3bcdace34d2eab7940b739d4d1a4)" alt="Animation" src="https://github.com/user-attachments/assets/c1960ca2-752e-4145-bd53-794514fb355d" />
 ' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif** for Windows
